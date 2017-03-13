@@ -2,6 +2,10 @@
 
 **Forked from [weiliu89/caffe](https://github.com/weiliu89/caffe/tree/ssd/)**
 
+<p align="center">
+  <img src="http://i.imgur.com/qcJGtBW.jpg">
+</p>
+
 This is a CNN (convolutional neural network) for detecting the gear game pieces in FIRST Steamworks. It uses the [SSD](https://arxiv.org/abs/1512.02325) architecture.
 
 ## Installation
